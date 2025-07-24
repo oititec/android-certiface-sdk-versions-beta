@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-0.0.20-layout-fix.aar",
           "url": "facetecsdk-0.0.20-layout-fix.aar",
-          "size": 388827,
-          "sha512": "c9b0739e9ad5dafa18bc56274006c9114919d08ef6792b0729e1e465b4f7d5edf7f9f03798b127016882eaedf250510a3363c4027b5b0a6a90c0b6f9c84c4bad",
-          "sha256": "eab68f3efda455a3f830aacf21bb4dba40fb9c54f548f315b9a3d4ed86059cee",
-          "sha1": "7e25c1f66226b88199f206b1280340e076fad321",
-          "md5": "88310f3d21692bc32a813e7578f70852"
+          "size": 397702,
+          "sha512": "fad04759f26710686d4b64d6e96b6f6d631d002abe0e820ba8aa18e5283dbc05d4beeefab6b58e25dbc5effe35ae8b6d9da8ec27ba189416495ec28bdb8bb795",
+          "sha256": "3ecf923eb4b59f2b70aecd5bda419c66098ae99e8e8c45a605bb005a83cb2ed9",
+          "sha1": "0176cabe60ada8af8e703f55199ab251a701b198",
+          "md5": "1bbf226a9f9dc766c0f25c0829953541"
         }
       ]
     },
@@ -283,11 +283,11 @@
         {
           "name": "facetecsdk-0.0.20-layout-fix.aar",
           "url": "facetecsdk-0.0.20-layout-fix.aar",
-          "size": 388827,
-          "sha512": "c9b0739e9ad5dafa18bc56274006c9114919d08ef6792b0729e1e465b4f7d5edf7f9f03798b127016882eaedf250510a3363c4027b5b0a6a90c0b6f9c84c4bad",
-          "sha256": "eab68f3efda455a3f830aacf21bb4dba40fb9c54f548f315b9a3d4ed86059cee",
-          "sha1": "7e25c1f66226b88199f206b1280340e076fad321",
-          "md5": "88310f3d21692bc32a813e7578f70852"
+          "size": 397702,
+          "sha512": "fad04759f26710686d4b64d6e96b6f6d631d002abe0e820ba8aa18e5283dbc05d4beeefab6b58e25dbc5effe35ae8b6d9da8ec27ba189416495ec28bdb8bb795",
+          "sha256": "3ecf923eb4b59f2b70aecd5bda419c66098ae99e8e8c45a605bb005a83cb2ed9",
+          "sha1": "0176cabe60ada8af8e703f55199ab251a701b198",
+          "md5": "1bbf226a9f9dc766c0f25c0829953541"
         }
       ]
     },
@@ -306,11 +306,11 @@
         {
           "name": "facetecsdk-0.0.20-layout-fix-sources.jar",
           "url": "facetecsdk-0.0.20-layout-fix-sources.jar",
-          "size": 67174,
-          "sha512": "269bb67caf6d2f8abbe83039d8848cb65eb73c908b200330a44ab854cc49725f09e8b7e4837fc43e98a99f0cc59b1c3816448935950370105fee5e55f50ccf69",
-          "sha256": "0af40a222ab31022887aa5abb3df97e51782ac93ff0b5c6f223087a3a3618dab",
-          "sha1": "98832f9c5504d436736ad30ed1638ed00a35684c",
-          "md5": "e0278861f9dfeeff4b08c847a704affb"
+          "size": 67222,
+          "sha512": "e378e90ca222aa5bcf810fdb4a087f4ca6dc78008b9c0bbaec095abb0dce0545b457a3a2be90b01d225b53775d9371994cfd79eb8916836ed16f7011c200c380",
+          "sha256": "f9158c36fffb24c08c7433d4e2b8536f230560ec0c256c606dc8d079847ff6db",
+          "sha1": "5a332def7a755ffd39ff93143747a71c3eb13a4f",
+          "md5": "bf7d3dc30a8c57bdc352074b48af7709"
         }
       ]
     }
