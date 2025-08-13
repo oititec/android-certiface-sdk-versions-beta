@@ -3,8 +3,8 @@
   <groupId>br.com.oiti</groupId>
   <artifactId>designsystem</artifactId>
   <versioning>
-    <latest>0.0.21</latest>
-    <release>0.0.21</release>
+    <latest>0.0.22</latest>
+    <release>0.0.22</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.1-snapshot</version>
@@ -37,7 +37,8 @@
       <version>0.0.20</version>
       <version>0.0.20-layout-fix</version>
       <version>0.0.21</version>
+      <version>0.0.22</version>
     </versions>
-    <lastUpdated>20250729124330</lastUpdated>
+    <lastUpdated>20250813201450</lastUpdated>
   </versioning>
 </metadata>
