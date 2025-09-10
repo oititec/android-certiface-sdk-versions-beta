@@ -21,7 +21,7 @@ Um exemplo de implementação pode ser encontrado no projeto Oiti-Sdk-Demo ou cl
 
 ### Changelog
 
-- Acompanhe as novidades das versões do Oiti-Sdk pelo [Devcenter](https://devcenter.certiface.io/docs/guia-detalhado-de-uso-copy#/-changelogs-e-vers%C3%B5es) ou clicando [aqui]().
+- Acompanhe as novidades das versões do Oiti-Sdk pelo [Devcenter](https://devcenter.certiface.io/docs/guia-detalhado-de-uso-copy#/-changelogs-e-vers%C3%B5es).
 
 ---
 ### Saiba mais
@@ -38,3 +38,4 @@ Um exemplo de implementação pode ser encontrado no projeto Oiti-Sdk-Demo ou cl
 
 
 ------
+
