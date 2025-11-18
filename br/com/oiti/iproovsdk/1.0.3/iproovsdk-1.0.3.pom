@@ -37,7 +37,7 @@
       <dependency>
         <groupId>androidx.compose</groupId>
         <artifactId>compose-bom</artifactId>
-        <version>2025.09.00</version>
+        <version>2025.11.00</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
@@ -47,7 +47,7 @@
     <dependency>
       <groupId>com.iproov.sdk</groupId>
       <artifactId>iproov</artifactId>
-      <version>10.4.0</version>
+      <version>11.1.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
