@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-1.0.3.aar",
           "url": "facetecsdk-1.0.3.aar",
-          "size": 474546,
-          "sha512": "14ae233c262e9fd544ab241359f9cfd21a1e563379de0d82f57cead90f45e067ba79078bad1900c2eec71bbb25db7e118db16d38e28d2be3e27d9a1e505b9e28",
-          "sha256": "ef09146a9ed4c8b9e341993793e572f357a07572a17841fe2994b81b9f95ba30",
-          "sha1": "b1011833d4c2cf21828ae6b27f959fc29723b239",
-          "md5": "8bfb79fd6ea7c7489e3cf2a740b7f8d7"
+          "size": 423468,
+          "sha512": "2b54ce4db301e50112313e8abde80e32c8fe4a62fd7972c589864b99c453cb34e4c22a121f56b78dc97c85db3076f1cf818274dfffce912d03e7a2c4bf31eb02",
+          "sha256": "99d94ac9244f04c2358ff5a6588a9f72208622e69c85e729914c07a5dc1006db",
+          "sha1": "8e31d8715aba97ee84fb6b482b0443ebac72ac25",
+          "md5": "66f22b8cec8bd1022cfe3fdc0dc96054"
         }
       ]
     },
@@ -155,7 +155,7 @@
           "group": "androidx.compose",
           "module": "compose-bom",
           "version": {
-            "requires": "2025.09.00"
+            "requires": "2025.11.00"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -297,11 +297,11 @@
         {
           "name": "facetecsdk-1.0.3.aar",
           "url": "facetecsdk-1.0.3.aar",
-          "size": 474546,
-          "sha512": "14ae233c262e9fd544ab241359f9cfd21a1e563379de0d82f57cead90f45e067ba79078bad1900c2eec71bbb25db7e118db16d38e28d2be3e27d9a1e505b9e28",
-          "sha256": "ef09146a9ed4c8b9e341993793e572f357a07572a17841fe2994b81b9f95ba30",
-          "sha1": "b1011833d4c2cf21828ae6b27f959fc29723b239",
-          "md5": "8bfb79fd6ea7c7489e3cf2a740b7f8d7"
+          "size": 423468,
+          "sha512": "2b54ce4db301e50112313e8abde80e32c8fe4a62fd7972c589864b99c453cb34e4c22a121f56b78dc97c85db3076f1cf818274dfffce912d03e7a2c4bf31eb02",
+          "sha256": "99d94ac9244f04c2358ff5a6588a9f72208622e69c85e729914c07a5dc1006db",
+          "sha1": "8e31d8715aba97ee84fb6b482b0443ebac72ac25",
+          "md5": "66f22b8cec8bd1022cfe3fdc0dc96054"
         }
       ]
     },
