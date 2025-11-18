@@ -77,11 +77,11 @@
         {
           "name": "oitisdk-1.0.3.aar",
           "url": "oitisdk-1.0.3.aar",
-          "size": 78778,
-          "sha512": "77f08a0cb8674ac7ad4167d152bd35c335c44ed1de4c9f9c37ce3f16925547c1f9a71084c917a341bbf05c03c7a7c57af24bbc603791df486efca0a6a11b8de3",
-          "sha256": "1568db20c01e4bc85a4b3ec75b22a9b472890ec01f38e7d19cfb25a590c83293",
-          "sha1": "519d2e28c8d37611303025695491464ab25ab9c5",
-          "md5": "c5895170017006db4b75efd857e117ae"
+          "size": 76352,
+          "sha512": "e1d45544b11f15abc00f419dcf62546348d47559d6ff4a9e26bf8f6cb1823ac27b577b1e68245d7f749a9caf837c3e302972ed3ae41c24f35f00bb07c0fcc3fa",
+          "sha256": "a46ce55de718f21799a900b46d3f28948e369b474070b2dcdc907ac7abe43a8f",
+          "sha1": "bd6625e8a776e43823c41f31d2e73b35593bc92e",
+          "md5": "fa1d03f5a1b29f35f187d46944ee46ad"
         }
       ]
     },
@@ -140,7 +140,7 @@
           "group": "androidx.compose",
           "module": "compose-bom",
           "version": {
-            "requires": "2025.09.00"
+            "requires": "2025.11.00"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -282,11 +282,11 @@
         {
           "name": "oitisdk-1.0.3.aar",
           "url": "oitisdk-1.0.3.aar",
-          "size": 78778,
-          "sha512": "77f08a0cb8674ac7ad4167d152bd35c335c44ed1de4c9f9c37ce3f16925547c1f9a71084c917a341bbf05c03c7a7c57af24bbc603791df486efca0a6a11b8de3",
-          "sha256": "1568db20c01e4bc85a4b3ec75b22a9b472890ec01f38e7d19cfb25a590c83293",
-          "sha1": "519d2e28c8d37611303025695491464ab25ab9c5",
-          "md5": "c5895170017006db4b75efd857e117ae"
+          "size": 76352,
+          "sha512": "e1d45544b11f15abc00f419dcf62546348d47559d6ff4a9e26bf8f6cb1823ac27b577b1e68245d7f749a9caf837c3e302972ed3ae41c24f35f00bb07c0fcc3fa",
+          "sha256": "a46ce55de718f21799a900b46d3f28948e369b474070b2dcdc907ac7abe43a8f",
+          "sha1": "bd6625e8a776e43823c41f31d2e73b35593bc92e",
+          "md5": "fa1d03f5a1b29f35f187d46944ee46ad"
         }
       ]
     },
