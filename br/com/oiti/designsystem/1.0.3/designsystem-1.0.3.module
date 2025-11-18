@@ -42,11 +42,11 @@
         {
           "name": "designsystem-1.0.3.aar",
           "url": "designsystem-1.0.3.aar",
-          "size": 1944032,
-          "sha512": "88e186ddf41240ca3fdba26d9b2d289436baffc3436216f0caa0bb611b5d910b7e8de51ce91c45208962958e11245790efe1561af43b48c04faa4fb1b46bc8a0",
-          "sha256": "04eff967ab76e199c38e4157953911e8ae5cc6674b656ad1637a61a0e5413b83",
-          "sha1": "3dce8131965f20cfb43116d3f76592d817ff7e5e",
-          "md5": "11c877d63b2fc7fa62add923c09916fa"
+          "size": 1874930,
+          "sha512": "4490ab959ba8f33cde614eefe5affa4d5e45b31faaf3e94fd7c578eb75c9ed08c4b6dc8bc71e9d5e98837b3068b5f577f27fb0e444e08e34a19df8d370d1be41",
+          "sha256": "99f65cfa31f9cf7d11b21d606a751eeca6033315da0032024f7a127fb1399465",
+          "sha1": "cfcc172ee96c81e677d8ede8d7a08d3c97ea0389",
+          "md5": "9f60c9eca832fa554fcba6bfc9f9ea27"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "group": "androidx.compose",
           "module": "compose-bom",
           "version": {
-            "requires": "2025.09.00"
+            "requires": "2025.11.00"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -214,11 +214,11 @@
         {
           "name": "designsystem-1.0.3.aar",
           "url": "designsystem-1.0.3.aar",
-          "size": 1944032,
-          "sha512": "88e186ddf41240ca3fdba26d9b2d289436baffc3436216f0caa0bb611b5d910b7e8de51ce91c45208962958e11245790efe1561af43b48c04faa4fb1b46bc8a0",
-          "sha256": "04eff967ab76e199c38e4157953911e8ae5cc6674b656ad1637a61a0e5413b83",
-          "sha1": "3dce8131965f20cfb43116d3f76592d817ff7e5e",
-          "md5": "11c877d63b2fc7fa62add923c09916fa"
+          "size": 1874930,
+          "sha512": "4490ab959ba8f33cde614eefe5affa4d5e45b31faaf3e94fd7c578eb75c9ed08c4b6dc8bc71e9d5e98837b3068b5f577f27fb0e444e08e34a19df8d370d1be41",
+          "sha256": "99f65cfa31f9cf7d11b21d606a751eeca6033315da0032024f7a127fb1399465",
+          "sha1": "cfcc172ee96c81e677d8ede8d7a08d3c97ea0389",
+          "md5": "9f60c9eca832fa554fcba6bfc9f9ea27"
         }
       ]
     },
