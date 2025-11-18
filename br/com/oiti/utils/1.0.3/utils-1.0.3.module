@@ -42,11 +42,11 @@
         {
           "name": "utils-1.0.3.aar",
           "url": "utils-1.0.3.aar",
-          "size": 128079,
-          "sha512": "4b1eda8e034d148a4cc3f3016ad365438f3841e88f6935fa05b29bd95861f464db99c6ce10c2c96f658a1ddd352aecac63bd7ddf66508cb88bce695e5915e3e6",
-          "sha256": "9420a8246b908f24ad89adb8a68ed850cc91c2c3b12e4bc2b3725d4709e15c14",
-          "sha1": "19f49b3c4c8f474f51128c70078f3d28fd97fe5d",
-          "md5": "3330aae638275c9415dc227477223250"
+          "size": 103059,
+          "sha512": "7b2bd737e385f553b03c9612fee40924a42d68bf3be867c2f975a178d604c2e24e7835e6e6a976dcbca3a5fc49e810a87632ac90710eb6c1978abe917c5323a0",
+          "sha256": "c9339e7125bbcf5342ca77cb5194cebf89be662f11208ae181f230252f007d2c",
+          "sha1": "4977f7d110e8d2bd3209ce4f9ffc1344f4fef05d",
+          "md5": "21954d30ab1862292fc7fe8bed50602f"
         }
       ]
     },
@@ -238,7 +238,7 @@
           "group": "androidx.compose",
           "module": "compose-bom",
           "version": {
-            "requires": "2025.09.00"
+            "requires": "2025.11.00"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -284,11 +284,11 @@
         {
           "name": "utils-1.0.3.aar",
           "url": "utils-1.0.3.aar",
-          "size": 128079,
-          "sha512": "4b1eda8e034d148a4cc3f3016ad365438f3841e88f6935fa05b29bd95861f464db99c6ce10c2c96f658a1ddd352aecac63bd7ddf66508cb88bce695e5915e3e6",
-          "sha256": "9420a8246b908f24ad89adb8a68ed850cc91c2c3b12e4bc2b3725d4709e15c14",
-          "sha1": "19f49b3c4c8f474f51128c70078f3d28fd97fe5d",
-          "md5": "3330aae638275c9415dc227477223250"
+          "size": 103059,
+          "sha512": "7b2bd737e385f553b03c9612fee40924a42d68bf3be867c2f975a178d604c2e24e7835e6e6a976dcbca3a5fc49e810a87632ac90710eb6c1978abe917c5323a0",
+          "sha256": "c9339e7125bbcf5342ca77cb5194cebf89be662f11208ae181f230252f007d2c",
+          "sha1": "4977f7d110e8d2bd3209ce4f9ffc1344f4fef05d",
+          "md5": "21954d30ab1862292fc7fe8bed50602f"
         }
       ]
     },
@@ -305,10 +305,10 @@
           "name": "utils-1.0.3-sources.jar",
           "url": "utils-1.0.3-sources.jar",
           "size": 34377,
-          "sha512": "841a5f0fbe83c599ab93d2abb53821369c433531f611606b69b87b735ef2b9136db243aa295b97bec84f66d72731d242ea7a0a3c06d7e5d517bc78c4f8da4e6b",
-          "sha256": "3a10c9049ac4d85ab6aa89eaf51323ddc9941c5315b187baccc2f9f554a7df5b",
-          "sha1": "e053e9b38d205cdd0220c8f6396b0121fb33cddc",
-          "md5": "03ceb03e3a2037185a5a76d224575c96"
+          "sha512": "9e4bb2b259c1fe9deff9c09f6d1b68b607ea8e084e7b047bffe3301e17a6478850e85052fba1d60744d0a2d1b54d60be6136951083e35ab0f8599cdadd294ed8",
+          "sha256": "caa84d8b0a89e4ef51f66b891117fae4d4930b987c45b6b983b2f6d805a21e9f",
+          "sha1": "5c587df6820c2ad2f60c97beaa6c3a198174b247",
+          "md5": "ab786582ad8e5cc5950ec16bdf2c4fe8"
         }
       ]
     }
