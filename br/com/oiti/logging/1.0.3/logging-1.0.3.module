@@ -35,11 +35,11 @@
         {
           "name": "logging-1.0.3.aar",
           "url": "logging-1.0.3.aar",
-          "size": 74036,
-          "sha512": "cd19f213efd3115d0980a4192adc482dc41ffbf650587d8d8d10d17005aacb3f379f823d5ade3be18b5fd0fa512426c46773c1b466b0112a8b29700aa847f3f8",
-          "sha256": "8a56f41ba857ea41cf23659eb4f879da8e73b1f4304820c30b7f8f58668768a8",
-          "sha1": "f50db844c0fb37e87e0aa6223565f7274ad0ebae",
-          "md5": "f84c7893620ada104e98a9c3662d1ea6"
+          "size": 57127,
+          "sha512": "28fee83f14e102d9a6d7adab0b594c56eab74b26dcfe8fb19ee78c4e4568c66d0898e63ceeec24768c95e5f1a79cc68ad232b57ab63fb22fc19a0dd582c73c41",
+          "sha256": "9b84caeffe861b75d27e134c3d0adb55bc82adaf1a096f2f04aaf7c34c8d8c85",
+          "sha1": "1f25c99e94d735bb34d740b44210ab687b89f217",
+          "md5": "24587ae8b6fb5d325d41a05f073d016c"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "logging-1.0.3.aar",
           "url": "logging-1.0.3.aar",
-          "size": 74036,
-          "sha512": "cd19f213efd3115d0980a4192adc482dc41ffbf650587d8d8d10d17005aacb3f379f823d5ade3be18b5fd0fa512426c46773c1b466b0112a8b29700aa847f3f8",
-          "sha256": "8a56f41ba857ea41cf23659eb4f879da8e73b1f4304820c30b7f8f58668768a8",
-          "sha1": "f50db844c0fb37e87e0aa6223565f7274ad0ebae",
-          "md5": "f84c7893620ada104e98a9c3662d1ea6"
+          "size": 57127,
+          "sha512": "28fee83f14e102d9a6d7adab0b594c56eab74b26dcfe8fb19ee78c4e4568c66d0898e63ceeec24768c95e5f1a79cc68ad232b57ab63fb22fc19a0dd582c73c41",
+          "sha256": "9b84caeffe861b75d27e134c3d0adb55bc82adaf1a096f2f04aaf7c34c8d8c85",
+          "sha1": "1f25c99e94d735bb34d740b44210ab687b89f217",
+          "md5": "24587ae8b6fb5d325d41a05f073d016c"
         }
       ]
     },
