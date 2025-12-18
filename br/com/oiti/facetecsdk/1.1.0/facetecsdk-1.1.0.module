@@ -27,7 +27,7 @@
           "group": "com.facetec",
           "module": "sdk",
           "version": {
-            "requires": "9.7.96"
+            "requires": "9.7.102"
           }
         },
         {
@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-1.1.0.aar",
           "url": "facetecsdk-1.1.0.aar",
-          "size": 551951,
-          "sha512": "67b17fac10171af140a85909c35035dc4ab24e39d0370bc7394e680e727d85cae743356040a8a7f7a8a1d8f6939f4a173ca0e2e7053e4c90f1ae15e3e1485b4d",
-          "sha256": "922f473ff5e675507d5a3767ba2a65279f9fdffa57fe3ca56844b86c09fcb4dc",
-          "sha1": "9881c597e8b27f033619c1edc7b355d0eb41a913",
-          "md5": "a4b104522f35ad12ce4aee736c1192cd"
+          "size": 553001,
+          "sha512": "c8ced23aa6f80b6f633d53024b79659a2ae9bd83adad56ce68171b1ddeb3d280d5caa7c0ddb893cc9f2f63c661c18f637ff5479cffc4d9489d5db92769ece2bb",
+          "sha256": "6a6de82748f7cddaac63dc92808fcb88468e3cfa6673d0998d4db8f29c382783",
+          "sha1": "38634c578548f6946702c14f23ccd684ad3a25c6",
+          "md5": "5f7f4f36d96cdd3268f0a0b5ac770a60"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "group": "com.facetec",
           "module": "sdk",
           "version": {
-            "requires": "9.7.96"
+            "requires": "9.7.102"
           }
         },
         {
@@ -297,11 +297,11 @@
         {
           "name": "facetecsdk-1.1.0.aar",
           "url": "facetecsdk-1.1.0.aar",
-          "size": 551951,
-          "sha512": "67b17fac10171af140a85909c35035dc4ab24e39d0370bc7394e680e727d85cae743356040a8a7f7a8a1d8f6939f4a173ca0e2e7053e4c90f1ae15e3e1485b4d",
-          "sha256": "922f473ff5e675507d5a3767ba2a65279f9fdffa57fe3ca56844b86c09fcb4dc",
-          "sha1": "9881c597e8b27f033619c1edc7b355d0eb41a913",
-          "md5": "a4b104522f35ad12ce4aee736c1192cd"
+          "size": 553001,
+          "sha512": "c8ced23aa6f80b6f633d53024b79659a2ae9bd83adad56ce68171b1ddeb3d280d5caa7c0ddb893cc9f2f63c661c18f637ff5479cffc4d9489d5db92769ece2bb",
+          "sha256": "6a6de82748f7cddaac63dc92808fcb88468e3cfa6673d0998d4db8f29c382783",
+          "sha1": "38634c578548f6946702c14f23ccd684ad3a25c6",
+          "md5": "5f7f4f36d96cdd3268f0a0b5ac770a60"
         }
       ]
     },
