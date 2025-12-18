@@ -3,8 +3,8 @@
   <groupId>br.com.oiti</groupId>
   <artifactId>remote</artifactId>
   <versioning>
-    <latest>1.1.0</latest>
-    <release>1.1.0</release>
+    <latest>1.1.0-snapshot</latest>
+    <release>1.1.0-snapshot</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-snapshot</version>
@@ -15,7 +15,8 @@
       <version>1.0.3</version>
       <version>1.0.3-snapshot-iproov</version>
       <version>1.1.0</version>
+      <version>1.1.0-snapshot</version>
     </versions>
-    <lastUpdated>20251217192805</lastUpdated>
+    <lastUpdated>20251218140109</lastUpdated>
   </versioning>
 </metadata>
