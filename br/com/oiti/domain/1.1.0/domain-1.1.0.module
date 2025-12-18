@@ -35,11 +35,11 @@
         {
           "name": "domain-1.1.0.aar",
           "url": "domain-1.1.0.aar",
-          "size": 156711,
-          "sha512": "9068d83ec07cee12117ce32c22d6c0f1ba872bb3120660c978e749e93c22742db5d8f7c05533ea4ab7d346ec2991cf42fb4a970d8a6e50842b80e48d66787cb4",
-          "sha256": "df4e13ecf3a17c1d11857f7f51b8f4c6ba707ea9f3c37a71ad1364a7a70755b5",
-          "sha1": "b5a7bff5a38df1f8b0968a3fdfc6115481a90f9a",
-          "md5": "b55ec8e182fde58728a3302bfa2d6022"
+          "size": 158900,
+          "sha512": "c40f5b046d64df63a2e2fdf8aa6f37b71fb20cacb17682976dbf5e7ebd8e977740135318f7dd5290c1c545e57f618a81d891023b6b0b5ff0a253401d963c9649",
+          "sha256": "12d88a938a5e5bc120798a42e3fbc92cc868b2357fec5180835712c45ae71fda",
+          "sha1": "003c78ead1893bc5eb78f3fd4f737634ee961923",
+          "md5": "0447006e811cebc9a0abd77be1c373fb"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "domain-1.1.0.aar",
           "url": "domain-1.1.0.aar",
-          "size": 156711,
-          "sha512": "9068d83ec07cee12117ce32c22d6c0f1ba872bb3120660c978e749e93c22742db5d8f7c05533ea4ab7d346ec2991cf42fb4a970d8a6e50842b80e48d66787cb4",
-          "sha256": "df4e13ecf3a17c1d11857f7f51b8f4c6ba707ea9f3c37a71ad1364a7a70755b5",
-          "sha1": "b5a7bff5a38df1f8b0968a3fdfc6115481a90f9a",
-          "md5": "b55ec8e182fde58728a3302bfa2d6022"
+          "size": 158900,
+          "sha512": "c40f5b046d64df63a2e2fdf8aa6f37b71fb20cacb17682976dbf5e7ebd8e977740135318f7dd5290c1c545e57f618a81d891023b6b0b5ff0a253401d963c9649",
+          "sha256": "12d88a938a5e5bc120798a42e3fbc92cc868b2357fec5180835712c45ae71fda",
+          "sha1": "003c78ead1893bc5eb78f3fd4f737634ee961923",
+          "md5": "0447006e811cebc9a0abd77be1c373fb"
         }
       ]
     },
