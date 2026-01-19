@@ -42,11 +42,11 @@
         {
           "name": "designsystem-1.1.0.aar",
           "url": "designsystem-1.1.0.aar",
-          "size": 1886708,
-          "sha512": "b0f3a0ea26e89c76648b5252e5f31b8ecf6f1d40031e85db44f920dc4a8e5999d6b601d54d40ce68b42a5e7fa207d36d178482bb89cb5df3ef2a04ae8a6ce84e",
-          "sha256": "1ca56f897b2fb0bef195edd57809cdaa0073b5d88e61849781113a6dd320cc43",
-          "sha1": "06b3aeb3468f64c70cd2702533ff6d101abddc02",
-          "md5": "b01eded7d03afe34cb9704495a558ef9"
+          "size": 1886960,
+          "sha512": "db3c811a8608b3b970b662ac379e5d6c8a6a20152a607b1846a84b723c610c308b9ca473efb1639b600cf1afc58e79529c574409831831801de796d73abb551c",
+          "sha256": "2e7a4881850c62ac4fee09374fcca28f338c18271371d6eb9c84802343ba2d8b",
+          "sha1": "cf1eabd00d62513ba19760d806603ce00d34bfdf",
+          "md5": "d625a0b1d2e3cca955d108bea133663c"
         }
       ]
     },
@@ -214,11 +214,11 @@
         {
           "name": "designsystem-1.1.0.aar",
           "url": "designsystem-1.1.0.aar",
-          "size": 1886708,
-          "sha512": "b0f3a0ea26e89c76648b5252e5f31b8ecf6f1d40031e85db44f920dc4a8e5999d6b601d54d40ce68b42a5e7fa207d36d178482bb89cb5df3ef2a04ae8a6ce84e",
-          "sha256": "1ca56f897b2fb0bef195edd57809cdaa0073b5d88e61849781113a6dd320cc43",
-          "sha1": "06b3aeb3468f64c70cd2702533ff6d101abddc02",
-          "md5": "b01eded7d03afe34cb9704495a558ef9"
+          "size": 1886960,
+          "sha512": "db3c811a8608b3b970b662ac379e5d6c8a6a20152a607b1846a84b723c610c308b9ca473efb1639b600cf1afc58e79529c574409831831801de796d73abb551c",
+          "sha256": "2e7a4881850c62ac4fee09374fcca28f338c18271371d6eb9c84802343ba2d8b",
+          "sha1": "cf1eabd00d62513ba19760d806603ce00d34bfdf",
+          "md5": "d625a0b1d2e3cca955d108bea133663c"
         }
       ]
     },

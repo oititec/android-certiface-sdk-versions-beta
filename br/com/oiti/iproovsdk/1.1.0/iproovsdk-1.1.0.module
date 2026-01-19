@@ -42,11 +42,11 @@
         {
           "name": "iproovsdk-1.1.0.aar",
           "url": "iproovsdk-1.1.0.aar",
-          "size": 313263,
-          "sha512": "5557a41e4b060ecc758b65f96302f512b069bdc261112e24f061b2fdfa4dc2c394902feb31f831c1c7b0a438e82220174827ad9492c65334dc883af5b785d0d7",
-          "sha256": "20193388ba53f7786c7189ccadbfcec41458944b6da798e11b1cfc3ffaf30406",
-          "sha1": "39d67342aa26f1fdb4afb803e4c40f6e0b0c6d35",
-          "md5": "151826cf9289e073cbeaff6e4cecf742"
+          "size": 316939,
+          "sha512": "6313c24091472dca501471f8b0d8f13e897121723cc177c5d1586165f7e69a21733ea946c38bbce0bfe3481a1eaea50bb440682036275ca74db42783c17c9adb",
+          "sha256": "abae12a6896d8d930f264b15a89b4b54a147ba7b57302a1eda15a8ab12f63114",
+          "sha1": "a0cad34cba6211aa02fae2d0a92cb811e9d26bd9",
+          "md5": "686d0b5ceb554cf8ce81bc2a6a7d0213"
         }
       ]
     },
@@ -290,11 +290,11 @@
         {
           "name": "iproovsdk-1.1.0.aar",
           "url": "iproovsdk-1.1.0.aar",
-          "size": 313263,
-          "sha512": "5557a41e4b060ecc758b65f96302f512b069bdc261112e24f061b2fdfa4dc2c394902feb31f831c1c7b0a438e82220174827ad9492c65334dc883af5b785d0d7",
-          "sha256": "20193388ba53f7786c7189ccadbfcec41458944b6da798e11b1cfc3ffaf30406",
-          "sha1": "39d67342aa26f1fdb4afb803e4c40f6e0b0c6d35",
-          "md5": "151826cf9289e073cbeaff6e4cecf742"
+          "size": 316939,
+          "sha512": "6313c24091472dca501471f8b0d8f13e897121723cc177c5d1586165f7e69a21733ea946c38bbce0bfe3481a1eaea50bb440682036275ca74db42783c17c9adb",
+          "sha256": "abae12a6896d8d930f264b15a89b4b54a147ba7b57302a1eda15a8ab12f63114",
+          "sha1": "a0cad34cba6211aa02fae2d0a92cb811e9d26bd9",
+          "md5": "686d0b5ceb554cf8ce81bc2a6a7d0213"
         }
       ]
     },
