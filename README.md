@@ -15,13 +15,13 @@ Visite o sumário abaixo e conheça sobre as documentações de uso e integraç�
 
 ### App de Exemplo
 
-Um exemplo de implementação pode ser encontrado no projeto Oiti-Sdk-Demo ou clicando [aqui](https://github.com/oititec/oiti-sdk-demo).
+Um exemplo de implementação pode ser encontrado no projeto Certiface-Sdk-Demo ou clicando [aqui](https://github.com/oititec/oiti-sdk-demo).
 
 --- 
 
 ### Changelog
 
-- Acompanhe as novidades das versões do Oiti-Sdk pelo [Devcenter](https://devcenter.certiface.io/docs/guia-detalhado-de-uso-copy#/-changelogs-e-vers%C3%B5es).
+- Acompanhe as novidades das versões do Certiface-Sdk pelo [Devcenter](https://devcenter.certiface.io/docs/guia-detalhado-de-uso-copy#/-changelogs-e-vers%C3%B5es).
 
 ---
 ### Saiba mais
