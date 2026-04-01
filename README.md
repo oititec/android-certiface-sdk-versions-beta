@@ -3,7 +3,7 @@
 
 # Certiface - SDK para Android
 
-Visite o sumário abaixo e conheça sobre as documentações de uso e integração, customização e releases notes Oiti-Sdk para Android.
+Visite o sumário abaixo e conheça sobre as documentações de uso e integração, customização e releases notes Certiface-Sdk para Android.
 
 
 **Simplificamos nossos guias de integração e de customização do nosso SDK Android:**
