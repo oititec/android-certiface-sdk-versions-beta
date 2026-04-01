@@ -1,7 +1,7 @@
 <IMG  src="https://github.com/oititec/liveness-android-sdk/blob/main/Documentation/Images/OitiHeader.png?raw=true"  alt="OitiHeader.png"/>
 
 
-# Oiti - SDK para Android
+# Certiface - SDK para Android
 
 Visite o sumário abaixo e conheça sobre as documentações de uso e integração, customização e releases notes Oiti-Sdk para Android.
 
