@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-2.0.4-beta.aar",
           "url": "facetecsdk-2.0.4-beta.aar",
-          "size": 613798,
-          "sha512": "0441f4bf3b53fe111ecd687fb20be81cce12bdb8934d57757b72df6a514524a63407e287a959d36e19626fbebeed51fc5b09ce39b6b4768c66a60a27f46ccdf8",
-          "sha256": "813107083b38c3e45b171dcd9ff0ee0c038950eb83112e2313dd5a235d91c495",
-          "sha1": "acb5765c33bffcb5e5e828a769be4f149ab93e45",
-          "md5": "957a6939690d250bc3744f8d0650e9a1"
+          "size": 607521,
+          "sha512": "9757f02106adddc9032f8c1d428cf6c3924f3b0aad66d37684819e0072c30957a4e7c3f4aefa784ac6bf3e6260961660de26019faa0be3865c481f3c4b736430",
+          "sha256": "d04f4006d5178ae33b4577a2ce3bc424c0a443bb844779b49a8e622915d96d1f",
+          "sha1": "5a59e88b789744b80a7ea90beb080ee732cbbf3d",
+          "md5": "17bdd9205328bfda3eb0d73de322e628"
         }
       ]
     },
@@ -290,11 +290,11 @@
         {
           "name": "facetecsdk-2.0.4-beta.aar",
           "url": "facetecsdk-2.0.4-beta.aar",
-          "size": 613798,
-          "sha512": "0441f4bf3b53fe111ecd687fb20be81cce12bdb8934d57757b72df6a514524a63407e287a959d36e19626fbebeed51fc5b09ce39b6b4768c66a60a27f46ccdf8",
-          "sha256": "813107083b38c3e45b171dcd9ff0ee0c038950eb83112e2313dd5a235d91c495",
-          "sha1": "acb5765c33bffcb5e5e828a769be4f149ab93e45",
-          "md5": "957a6939690d250bc3744f8d0650e9a1"
+          "size": 607521,
+          "sha512": "9757f02106adddc9032f8c1d428cf6c3924f3b0aad66d37684819e0072c30957a4e7c3f4aefa784ac6bf3e6260961660de26019faa0be3865c481f3c4b736430",
+          "sha256": "d04f4006d5178ae33b4577a2ce3bc424c0a443bb844779b49a8e622915d96d1f",
+          "sha1": "5a59e88b789744b80a7ea90beb080ee732cbbf3d",
+          "md5": "17bdd9205328bfda3eb0d73de322e628"
         }
       ]
     },
@@ -310,11 +310,11 @@
         {
           "name": "facetecsdk-2.0.4-beta-sources.jar",
           "url": "facetecsdk-2.0.4-beta-sources.jar",
-          "size": 114796,
-          "sha512": "60c043dab4159fca367fd60358caffaae8998f0ef5c9bdd26d18195ac0c9336868c097247e852deb0fd9042478d6ff5f05f0be3e2d942ceb5a3d7f559595e3c2",
-          "sha256": "dea852b42cb27ab47d42befada521da69aad014425b2d28ec4d623074ec9b496",
-          "sha1": "a09fe66171b9e3049d287492ae362474bf72fb2d",
-          "md5": "7ac2d8d5e26950d7864fc9bda021bd9d"
+          "size": 112711,
+          "sha512": "8ed36bb1188980ea0a9c9664089689dfffdbd97287b62038717b84a14ddc6a2590d8328a0c262acd632915fb8201e84e9b93d0fa7d69eb927a2057a98603ed9b",
+          "sha256": "38e49afb4b66d9393374e588dfab41ccb0c40dc2bb26e690b040a3ce057b238d",
+          "sha1": "cfb52650b8d6942dfa419f9c7b894d6f651831d1",
+          "md5": "4e9edc59e36fcac265f3f2deac45eed0"
         }
       ]
     }
