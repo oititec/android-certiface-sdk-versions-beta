@@ -42,11 +42,11 @@
         {
           "name": "fortfacesdk-2.0.4-beta.aar",
           "url": "fortfacesdk-2.0.4-beta.aar",
-          "size": 251313,
-          "sha512": "0363a8c57dd9c908ce29ace37211058ae438ef176320989c1478dda4364960f1582143173e57dd72822f420ca3fc5de93ac10a541a2d205f63ec9ffa7c382d4b",
-          "sha256": "436404a995ad893d14e6adb69ac3a0cb95b83a86b7271cfbf733dcc671ae8826",
-          "sha1": "b0c9b86439d2d9b95513659f6ab0d55ea5596b3d",
-          "md5": "9b164c5266f101744cc8d1fdf6e4e493"
+          "size": 250294,
+          "sha512": "a1a2ab1127df9decda1191894d5df02b3d6136b103eff4ec55624f98c176b94019126fc3e4b45bede67ce9ba07b2b63cbfc606689ebf69e4e525e2d174032567",
+          "sha256": "b25ede9021570a64a99bb9274e3489b56e1a0c0bc4ea9048b40639d725aef53f",
+          "sha1": "9c4132d3f499dfa829e155870ee0420f566f4807",
+          "md5": "e2e22c81d8f02d5056017549f1c8928c"
         }
       ]
     },
@@ -319,11 +319,11 @@
         {
           "name": "fortfacesdk-2.0.4-beta.aar",
           "url": "fortfacesdk-2.0.4-beta.aar",
-          "size": 251313,
-          "sha512": "0363a8c57dd9c908ce29ace37211058ae438ef176320989c1478dda4364960f1582143173e57dd72822f420ca3fc5de93ac10a541a2d205f63ec9ffa7c382d4b",
-          "sha256": "436404a995ad893d14e6adb69ac3a0cb95b83a86b7271cfbf733dcc671ae8826",
-          "sha1": "b0c9b86439d2d9b95513659f6ab0d55ea5596b3d",
-          "md5": "9b164c5266f101744cc8d1fdf6e4e493"
+          "size": 250294,
+          "sha512": "a1a2ab1127df9decda1191894d5df02b3d6136b103eff4ec55624f98c176b94019126fc3e4b45bede67ce9ba07b2b63cbfc606689ebf69e4e525e2d174032567",
+          "sha256": "b25ede9021570a64a99bb9274e3489b56e1a0c0bc4ea9048b40639d725aef53f",
+          "sha1": "9c4132d3f499dfa829e155870ee0420f566f4807",
+          "md5": "e2e22c81d8f02d5056017549f1c8928c"
         }
       ]
     },
@@ -339,11 +339,11 @@
         {
           "name": "fortfacesdk-2.0.4-beta-sources.jar",
           "url": "fortfacesdk-2.0.4-beta-sources.jar",
-          "size": 83942,
-          "sha512": "6caf2a8829a94a5b43b784dff58db179541ec73f87399c5282bf15c039659ac01dab68406caae4a9b32ed82eb25cc137e3d89f22345375193c0d6189f47066a0",
-          "sha256": "92f14b9988c83ea921b31fc01fbdb2d7f4e5f4ea7efa3018b80228de0c9d8f0f",
-          "sha1": "a3627fb3a7390e8e49b733527e15b89352e7762f",
-          "md5": "8391f8eaae30c5c79d22475397cf442a"
+          "size": 83759,
+          "sha512": "4595b4c7f89497354c135f4bec1398a73f4fb054085e2b24a12a932f38489076d4383daa2114fc824b0bc4796cc9f004dc82d0071cd93f55501d233d90371333",
+          "sha256": "289ac021fcf59337186133c9b6d9453d45578664d6f4982b7e4fa4f41026a852",
+          "sha1": "5626f8a4c29da3da919d9c8d80b88773918101d0",
+          "md5": "206d8bb8b64fef877267506171ed8418"
         }
       ]
     }
