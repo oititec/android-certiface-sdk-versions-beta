@@ -1,0 +1,173 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.certiface",
+    "module": "network",
+    "version": "2.1.0-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "network-2.1.0-beta.aar",
+          "url": "network-2.1.0-beta.aar",
+          "size": 49775,
+          "sha512": "f1697dd295b6aefa1731919500f9335e6cc108055aeac4c08b84aa8101914c1d4c296baca973bda358d0d8282115ba8bf036abedf8270bccdc1e90dc202f48fb",
+          "sha256": "7f0bae640c936c844a5af58bd525de36fdee60e407c77e5738b4c163b8582fd7",
+          "sha1": "4872b45e878b7476c31d51fd02cf59d09ee77e20",
+          "md5": "de349259a1f830c1e8e09304e27dd85e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.17.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.14.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "core",
+          "version": {
+            "requires": "2.1.0-beta"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "network-2.1.0-beta.aar",
+          "url": "network-2.1.0-beta.aar",
+          "size": 49775,
+          "sha512": "f1697dd295b6aefa1731919500f9335e6cc108055aeac4c08b84aa8101914c1d4c296baca973bda358d0d8282115ba8bf036abedf8270bccdc1e90dc202f48fb",
+          "sha256": "7f0bae640c936c844a5af58bd525de36fdee60e407c77e5738b4c163b8582fd7",
+          "sha1": "4872b45e878b7476c31d51fd02cf59d09ee77e20",
+          "md5": "de349259a1f830c1e8e09304e27dd85e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "network-2.1.0-beta-sources.jar",
+          "url": "network-2.1.0-beta-sources.jar",
+          "size": 18180,
+          "sha512": "1d22ba7800c2090c20a7f5259f300eb0e6be36d66cda406e6fd6391be45def17a79c79339312337d114c1d423ec849cd35a1c8ebd7649ece24a8e0ecccc1a62a",
+          "sha256": "bbd9076eb44e7b5d69f9c432501f8b32e8f56d4b46586f26b5bd2134e8320ebb",
+          "sha1": "34543d0c76bd9fc74a9ff73420a46a88fe7712c7",
+          "md5": "2ace268cda89be59d079b4e04f39d010"
+        }
+      ]
+    }
+  ]
+}
