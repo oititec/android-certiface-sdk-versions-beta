@@ -18,12 +18,6 @@ Data: 18/11/2026
 
 ### Changed
 - Enhance SaaS liveness flow, remote theme customization, and ProGuard rules
-- ```text build(deps): update certifaceSDKVersion from 2.1.0-beta-2 to 2.1.0
-- ```text build(deps): update dependencies in Gemfile.lock
-- ```text feat(doc): add SaaS token support for Document SDK
-- ```text feat: allow copying generated SAAS tokens in ResultScreen
-- ```text feat(shield): dynamically configure SHIELD SDK from journey payload
-- ```text build(deps): update certifaceSDKVersion from 2.1.0 to 2.1.0-beta-1
 - Internalize SHIELD SDK dependency management
 - Manage SHIELD instance lifecycle and enhance SDK accessibility
 - Standardize duration usage and modernize callbacks
